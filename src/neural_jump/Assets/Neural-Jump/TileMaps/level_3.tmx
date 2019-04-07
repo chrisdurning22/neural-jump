@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="200" height="20" tilewidth="256" tileheight="256" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../../../Unity Assets/tiles.tsx"/>
+ <tileset firstgid="39" source="tiles.tsx"/>
+ <layer name="background" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6H71b/jCRkkrJqqqqqqqqqqqqqqqqqqqqrvH9mVbWE=
+  </data>
+ </layer>
+ <layer name="deadly_09" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiA7rH/XvTbwgQQkAAAAAAAAAAAAAKzcOgAAAAAAUB7H6wAU
+  </data>
+ </layer>
+ <layer name="deadly_08" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt06ENADAMBLG0+w9dmoAPKrSlG+GqAAAAAAAAAAAAAPjptIDptoDJH5D5AzJ/QOYPyPzB5gHiUwAo
+  </data>
+ </layer>
+ <layer name="deadly_07" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt06ENADAMBLG0+w9dmoAHKbalG+GqAAAAAAAAAAAAAPh1WsB0W8DkD8j8AZk/IPMHZP5g6wHlXwAo
+  </data>
+ </layer>
+ <layer name="deadly_06" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt06ENADAMBLG0+w9dmoCXAgpt6Ua4KgAAAAAAAAAAAAA2TguYbguY/AGZPyDzB2T+gMwf/PAA6GsAKA==
+  </data>
+ </layer>
+ <layer name="deadly_05" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENACAMBLHA/kPTJkhfprOlG+GqAAAAAAAAAAAAAPidFjDdFjD5AzJ/QOYPyPwBmT/Y8gDrdwAo
+  </data>
+ </layer>
+ <layer name="deadly_04" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6B3sH9XY3w6SEACAAAAAAAAAAAAcN+0AwAAAAAADyzVkwAU
+  </data>
+ </layer>
+ <layer name="deadly_03" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6B3sH9XY3w6SEACAAAAAAAAAAAAcM+0AwAAAAAADy3WwwAU
+  </data>
+ </layer>
+ <layer name="deadly_02" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6B3sH9XY9xNSEACAAAAAAAAAAAAcN+0AwAAAAAADyzX8wAU
+  </data>
+ </layer>
+ <layer name="deadly_01" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6B3sH9XY9xNSEACAAAAAAAAAAAAcM+0AwAAAAAADy3ZIwAU
+  </data>
+ </layer>
+ <layer name="foreground_01" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0wEJACAUQ0FrCPbPaQll43MHa7C3FgAAAAAAAAAAAMBbe8DglzNg8Ev62/qgWfrb+qBZ+tv6oFn62/qgWfrb+qDZBeBmJPI=
+  </data>
+ </layer>
+ <layer name="foreground_02" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAMBDGvEcj+c6ZxZ95VSgluhKsCAAAAAAAAAAAAYHM6YLodMPkDMn9A5g/I/AGZP/jpAaObAYM=
+  </data>
+ </layer>
+ <layer name="foreground_03" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAMBDGvEcj+c6ZxZ75wagluhKsCAAAAAAAAAAAAYOt0wHQ7YPIHZP6AzB+Q+QMyf/DrAYVzAYM=
+  </data>
+ </layer>
+ <layer name="foreground_04" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAMBDGvEcj+c6ZxZx5cpJTgRrgqAAAAAAAAAAAAAH44HTDdDpj8AZk/IPMHZP6AzB9sPGdLAYM=
+  </data>
+ </layer>
+ <layer name="foreground_05" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAMBDGvEcj+c7oPfBnsQoIb4aoAAAAAAAAAAAAA+OUMB5vd4WAzf0DmD8j8AZk/IPMHrwZA5Rgh
+  </data>
+ </layer>
+ <layer name="foreground_06" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt00EJADAMBMHYKNS/zio4yLMkM7AStgoAAAAAAAAAAACA6U4j2Oo2gq38AZk/IPMHZP6AzB//ePRUBso=
+  </data>
+ </layer>
+ <layer name="foreground_07" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJACAUQ8G/huD+c1paBbRQUO4gbbpXBQAAAAAAAAAAAABTW9jOB/ykXx68RB+Q6QMyfUCmD8j0cdYArZwTjQ==
+  </data>
+ </layer>
+ <layer name="foreground_08" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAIADBrCPbPaQHBW9xgEQAAAAAAAAAAAMAkl/BZLQEAAACAmxqzvQGp
+  </data>
+ </layer>
+ <layer name="deadly_10" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiBLrH/V3SbwgQQkAAAAAAAAAAAAsHHrAAAAAAAAUB4xCgAW
+  </data>
+ </layer>
+ <layer name="deadly_11" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6CXsH9VY9xNSEACAAAAAAAAAAAA90w7AAAAAAAADy0uvgAW
+  </data>
+ </layer>
+ <layer name="deadly_12" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAMBDEn+w+dxp353gQJboSrAgAAAAAAAAAAAOBXpwOm2wGTPyDzB2T+gMwfkPljnwdIYwAb
+  </data>
+ </layer>
+ <layer name="deadly_13" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6CXsH9VY3w6SEACAAAAAAAAAAAAP0w7AAAAAAAAxy0qegAW
+  </data>
+ </layer>
+ <layer name="deadly_14" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENADAMwzC3/x/dJVvgtRMJ6AQlAAAAAAAAAAAAAJCcCdjuBGz+gM4f0PkDOn9A548/HkPrABs=
+  </data>
+ </layer>
+ <layer name="deadly_15" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6CXsH9VY9xNSEACAAAAAAAAAAAA/0w7AAAAAAAABy0m3gAW
+  </data>
+ </layer>
+ <layer name="deadly_16" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiCDrX+u/RbwgQQkAAAAAAAAAAAAQLt1AAAAAAAABh6qSwA9
+  </data>
+ </layer>
+ <layer name="deadly_17" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAIA6Be5v9nuXZ2NJCQAAAAAAAAAAAAABdTAQAAAADggwXvoAC7
+  </data>
+ </layer>
+ <layer name="deadly_18" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6DXsn8xY9xNSEACAAAAAAAAAAAAALdMOwAAAAAATy2ceAA6
+  </data>
+ </layer>
+ <layer name="deadly_19" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6DXsn8xY3w6SEACAAAAAAAAAAAAADdMOwAAAAAAzy2XIAA6
+  </data>
+ </layer>
+ <layer name="deadly_20" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6DXsn8xY3w6SEACAAAAAAAAAAAAALdNOwAAAAAATyyRyAA6
+  </data>
+ </layer>
+ <layer name="deadly_21" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztw7EJAAAIA7Be5v9nuXcXHBJIAgAAAAAAAAAAAAAAAHBjKgAAvy2rNwD5
+  </data>
+ </layer>
+ <layer name="foreground_14" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0zENAAAIBLE3h39LKIANpjY5CZcAAAAAAAAAAAAAAAAAAN9qCPAHbK7/aAn7BNs=
+  </data>
+ </layer>
+ <layer name="deadly_22" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt06ENAAAIwDDO4f8LsSAwGEyb7IRFAAAAAAAAAAAAAAAAAPzKFjD5A3b+gN31jwJqhwHh
+  </data>
+ </layer>
+ <layer name="foreground_09" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAIADBrCPbPaQQPH8ENFgEAAAAAAAAAAABs5RA+qyEAAAAAcEcDat0BqQ==
+  </data>
+ </layer>
+ <layer name="foreground_10" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt00ENwDAAxLDSqFT+OMdil4ctBULOAQAAAAAAAAAAAICdGwtKXiwoWf/gD4rWH/iDuvUL/qBu/YM/KFv/8PcfH93JG3k=
+  </data>
+ </layer>
+ <layer name="foreground_12" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENADAMwzDfFiD/v9Sxk7eMJKATlAAAAAAAAAAAAAAAAHBpSkCyJeDzB3T+gO7qjweO5gZn
+  </data>
+ </layer>
+ <layer name="pole" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7BJw78qLOwhPK2CJgAAAAAAAAAAAAAAcGu+AwAAAEBlAS+8AEE=
+  </data>
+ </layer>
+ <layer name="foreground_11" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0zENAEAIBEFsfIJ/na+A4hoaZpKVsFUAAAAAAAAAAAAAAABse0FwTQfBNf6AmT9glvzxAcpkBeQ=
+  </data>
+ </layer>
+</map>

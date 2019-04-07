@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Neural-Jump/Scenes/LevelOneNEAT.unity
+  isLoaded: 1
+  isActive: 1
